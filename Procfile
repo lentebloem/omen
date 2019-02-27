@@ -1,1 +1,1 @@
-web: pip install -r requirements.txt && python manager.py run 
+web: pip install -r requirements.txt && python manage.py run 
