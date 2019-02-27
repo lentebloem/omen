@@ -1,1 +1,1 @@
-web: docker-compose up -d --build
+web: pip install -r requirements.txt && python manager.py run 
