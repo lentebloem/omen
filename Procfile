@@ -1,1 +1,1 @@
-web: python manage.py run
+web: docker-compose up -d --build
